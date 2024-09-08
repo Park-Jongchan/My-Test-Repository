@@ -1,6 +1,6 @@
 # My-Test-Repository
 
-박종찬 (Park-Jongchan)
+박종찬 (Park-Jongchan) # 1987년 11월 1일
 
 현재 거주지 : 충남 부여(직장) / 전북 익산(현재) / 대전 이사예정
 
